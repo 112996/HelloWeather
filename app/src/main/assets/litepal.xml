@@ -2,8 +2,8 @@
     <dbname value="hello_weather"/>
     <version value="1"/>
     <list>
-        <mapping class="com.helloweather.android.db.Province"/>
-        <mapping class="com.helloweather.android.db.City"/>
-        <mapping class="com.helloweather.android.db.County"/>
+        <mapping class="com.helloweather.helloweather.db.Province"/>
+        <mapping class="com.helloweather.helloweather.db.City"/>
+        <mapping class="com.helloweather.helloweather.db.County"/>
     </list>
 </litepal>
